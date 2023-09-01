@@ -35,6 +35,5 @@ main {
   background: linear-gradient(to bottom, #ffd700, #ff0000);
   padding: 2rem;
   display: flex;
-  justify-content: center;
-  align-items: center;
+  
 }
